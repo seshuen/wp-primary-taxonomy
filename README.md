@@ -14,7 +14,7 @@ The goal of this plugin is to simply add functionality to have a primary categor
 
 ## Coding Thought Process
 
-The goal of this exercise was to see how I can use my existing knowledge on Wordpress and how I can learn about things I didnt know about. I stuck to basic and focused on creating a plugin which can update post meta data which can be extended in WP query. There was not much modules to the exercise. The project majorly consisted to two parts:
+The goal of this exercise was to see how I can use my existing knowledge on Wordpress and how I can learn about things I didnt know about. I stuck to basic and focused on creating a plugin which can update post meta data which can be extended in WP query. There was not much modules to the exercise. The project majorly consisted of two main parts:
 
 - Connecting post meta data to post taxonomies
 - Connecting post type to its post meta data
