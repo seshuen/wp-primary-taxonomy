@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: WP Primary Taxonomy
- * Plugin URI: https://github.com/seshuen
+ * Plugin URI: https://github.com/seshuen/wp-primary-taxonomy
  * Description: Allow primary taxonomy options for post type and custom post type
  * Author: Seshagopalan Narasimhan
  * Author URI: https://github.com/seshuen
